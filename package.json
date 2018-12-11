@@ -1,5 +1,8 @@
 {
     "name": "Nestable",
     "version": "1.0.0",
-    "description": ""
+    "description": "",
+    "main": "jquery.nestable.js",
+    "repository": "https://github.com/srengty/Nestable",
+    "license": ""
 }
